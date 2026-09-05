@@ -77,6 +77,7 @@ npm run preview   # 本地预览构建产物
 │   └── package.json
 └── （根目录其它是源文件备份，例如未压缩的 PNG 与 .draco.glb 原始资源）
 ```
+test
 
 ## 许可与说明
 
